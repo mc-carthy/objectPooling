@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CA5B8B5C-3D53-E14E-A269-E1C79355CA1C}") = "objectPooling", "Assembly-CSharp.csproj", "{67F967A1-2701-C0B7-7D9B-DD9802C61FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F967A1-2701-C0B7-7D9B-DD9802C61FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F967A1-2701-C0B7-7D9B-DD9802C61FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F967A1-2701-C0B7-7D9B-DD9802C61FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F967A1-2701-C0B7-7D9B-DD9802C61FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

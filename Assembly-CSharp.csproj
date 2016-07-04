@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C96798D7-0BDF-2611-718A-6270963AE82B}</ProjectGuid>
+    <ProjectGuid>{67F967A1-2701-C0B7-7D9B-DD9802C61FB8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,8 +47,9 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\FPSCounter.cs" />
      <Compile Include="Assets\Scripts\FPSDisplay.cs" />
-     <Compile Include="Assets\Scripts\Nucleon.cs" />
-     <Compile Include="Assets\Scripts\NucleonSpawner.cs" />
+     <Compile Include="Assets\Scripts\Stuff.cs" />
+     <Compile Include="Assets\Scripts\StuffSpawner.cs" />
+     <Compile Include="Assets\Scripts\StuffSpawnerRing.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
